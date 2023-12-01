@@ -47,7 +47,7 @@ export default {
     }
     // For `babel: false` mode
     return node.range;
-  },  
+  },
 
   getDefaultOptions() {
     return defaultOptions;

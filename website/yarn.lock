@@ -6222,9 +6222,9 @@ he@1.2.x, he@^1.1.0:
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
 hermes-parser@^0.4.7:
-  version "0.4.7"
-  resolved "https://registry.yarnpkg.com/hermes-parser/-/hermes-parser-0.4.7.tgz#410f5129d57183784d205a0538e6fbdcf614c9ea"
-  integrity sha512-jc+zCtXbtwTiXoMAoXOHepxAaGVFIp89wwE9qcdwnMd/uGVEtPoY8FaFSsx0ThPvyKirdR2EsIIDVrpbSXz1Ag==
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/hermes-parser/-/hermes-parser-0.4.8.tgz#f0896361cf577021524511d24c70f07391ee5ecb"
+  integrity sha512-JSew2q2DSFKjcLGxEeO7Mjc/Gfw4yV2MZvUWAJPrI8rstBL9ZWNckE/sI+5ixzp8g7s9CAs4vez1+6I/EHX/Xg==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
